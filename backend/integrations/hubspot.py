@@ -17,9 +17,9 @@ from redis_client import add_key_value_redis, get_value_redis, delete_key_redis
 from integrations.integration_item import IntegrationItem
 
 # HubSpot OAuth2 Configuration
-CLIENT_ID = '6d89e1c9-8fb7-4d9d-93bb-abbbefabc726'
-CLIENT_SECRET = 'd2883553-e225-4fe1-a3f4-0b43f8fc925d'
-REDIRECT_URI = 'http://localhost:8000/integrations/hubspot/oauth2callback'
+CLIENT_ID = ''
+CLIENT_SECRET = ''
+REDIRECT_URI = ''
 
 # Required scopes for HubSpot API access
 SCOPES = [

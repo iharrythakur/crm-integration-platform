@@ -144,9 +144,9 @@ Once the backend server is running, you can access the API documentation at:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Authors
+## 👥 Author
 
-- Your Name - Initial work
+- Your Name - Harshdeep Singh
 
 ## 🙏 Acknowledgments
 
